@@ -1,13 +1,15 @@
 {
   "scripts": {
-    "build": "node ./scripts/covertReadmeToHTML.js",
+    "build": "rimraf docs/*.html && node ./scripts/covertMarkdownToHTML.js",
     "precommit": "npm run build"
   },
   "devDependencies": {
     "consolidate": "0.14.5",
+    "glob": "7.1.2",
     "husky": "0.14.3",
     "lodash": "4.17.2",
     "marked": "0.3.6",
-    "pygmentize-bundled": "2.3.0"
+    "pygmentize-bundled": "2.3.0",
+    "rimraf": "2.6.1"
   }
 }
