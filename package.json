@@ -1,4 +1,11 @@
 {
+  "name": "The-Terrible-Front-End-List",
+  "version": "1.0.0",
+  "description": "The Terrible Front-End List",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
     "build": "rimraf docs/*.html && node ./scripts/covertMarkdownToHTML.js",
     "precommit": "npm run build"
@@ -11,5 +18,16 @@
     "marked": "0.3.6",
     "pygmentize-bundled": "2.3.0",
     "rimraf": "2.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starandtina/The-Terrible-Front-End-List.git"
+  },
+  "keywords": [],
+  "author": "Khalil Zhang <kandmforever@126.com> (http://starandtina.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starandtina/The-Terrible-Front-End-List/issues"
+  },
+  "homepage": "https://github.com/starandtina/The-Terrible-Front-End-List#readme"
 }
