@@ -1,8 +1,8 @@
 # Reads
 
-> :books: A list of physical books I own or want to read.
+> 📚 A list of physical books I own or want to read.
 
-If you have book recommendations for me, please [create a Pull Request](https://github.com/starandtina/reads/compare) adding a link at the end of [`README`](https://github.com/starandtina/reads/blob/master/README.md).
+If you have book recommendations for me, please [create a Pull Request](https://github.com/starandtina/The-Terrible-Front-End-List/compare) adding a link at the end of [`README`](https://github.com/starandtina/The-Terrible-Front-End-List/blob/master/README.md).
 
 ## Ratings
 

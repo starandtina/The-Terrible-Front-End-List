@@ -8,6 +8,14 @@ If you want to view the well organized version, please head to [this link](http:
 
 ----
 
+## Ratings
+
+- :new_moon: Haven't read yet
+- :waxing_crescent_moon: :first_quarter_moon: :moon: Reading progress
+- :full_moon: Finished reading
+- :full_moon_with_face: **Wouldn't recommend**
+- :star2: **Loved it*
+
 # Required Reading
 
 * [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - One clear path to JavaScript mastery
