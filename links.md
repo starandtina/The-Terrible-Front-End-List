@@ -55,6 +55,10 @@ If you want to view the well organized version, please head to [this link](http:
 * :star2: [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.l0xis2l65)
 * :star2: [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 * :star2: [wearehive/project-guidelines](https://github.com/wearehive/project-guidelines): A set of best practices for JavaScript projects
+* :new_moon: [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+* :new_moon: [grab/front-end-guide](https://github.com/grab/front-end-guide): 📚 Study guide and introduction to the modern front end stack.
+* :new_moon: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+
 
 # Required Viewing
 
