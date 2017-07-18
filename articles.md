@@ -19,7 +19,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [Interview/Hiring](#interview-hiring)
   1. [Web Performance](#wpo)
   1. [Web Accessibility](#a11y)
-  1. [Languages](#languages)
+  1. [CSS](#css)
   1. [React/Redux](#react-redux)
   1. [Frameworks/Libraries/Widgets](#frameworks-libraries-widgets)
   1. [User Experience/Interaction Design/Usability](#ux)
@@ -85,6 +85,9 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :full_moon: [Links, Buttons, Submits, and Divs, Oh Hell](http://adrianroselli.com/2016/01/links-buttons-submits-and-divs-oh-hell.html): The struggle to help developers how to understand the right HTML to use for visual buttons has been written about over and over. Yet libraries, frameworks, templates, and by extension, sites & applications still continue to get it wrong.
 
+# <a name='css'>CSS</a>
+
+- :full_moon: [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
 ## <a name='react-redux'>React/Redux</a>
 
