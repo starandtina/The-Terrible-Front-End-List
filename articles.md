@@ -59,6 +59,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [The Secret to Growing Your Engineering Career If You Don't Want to Manage](http://bit.ly/1otQMNk)
 - :new_moon: [We need to rethink employee compensation](http://bit.ly/1BOLjGd)
 - :full_moon: [7 Tips for Aspiring Managers in Engineering](http://bit.ly/22iPoPr)
+- :full_moon: [Ask HN: How to prepare for an Engineering Manager interview?](https://news.ycombinator.com/item?id=14726130): How could I make a good impression despite the lack of management experience? I did mentor engineers, etc. in the past. Happy to hear about things I should be expecting.
 
 ## <a name='interview-hiring'>Interview/Hiring</a>
 
@@ -119,6 +120,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Server-side HTML vs. JS Widgets vs. Single-Page Web Apps <sub>Picking your architecture = Picking your battles.</sub>](http://bit.ly/1S2scy1)
 - :full_moon: [Why Curry Helps <sub>Curry gives you a tantalising amount of expressive power.</sub>](http://bit.ly/1NneJkE)
 - :full_moon: [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
+- :full_moon: [Ask HN: What habits make a programmer great?](https://news.ycombinator.com/item?id=14708350): So what are the habits I should cultivate to be a great programmer or even a good one? What are the bad habits that I should drop?
 
 ## <a name='startups-business'>Startups/Businesses</a>
 
