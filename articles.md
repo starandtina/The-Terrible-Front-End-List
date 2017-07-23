@@ -112,6 +112,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## <a name='building-deploying'>Building/Depolying</a>
 
 - :waxing_crescent_moon: [HOW TO DEPLOY SOFTWARE <sub>Make your team’s deploys as boring as hell and stop stressing about it.</sub>](http://bit.ly/1L7jLRc)
+- :full_moon: [Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 
 ## <a name='#development-philosohpy'>Development Philosophy</a>
 
