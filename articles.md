@@ -60,6 +60,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [We need to rethink employee compensation](http://bit.ly/1BOLjGd)
 - :full_moon: [7 Tips for Aspiring Managers in Engineering](http://bit.ly/22iPoPr)
 - :full_moon: [Ask HN: How to prepare for an Engineering Manager interview?](https://news.ycombinator.com/item?id=14726130): How could I make a good impression despite the lack of management experience? I did mentor engineers, etc. in the past. Happy to hear about things I should be expecting.
+- :full_moonb: [想从技术转管理？这些坑你可要注意了！](https://mp.weixin.qq.com/s/iJrlDJzXih2Ovn7Zju4QEw): 大部分技术管理者都是从普通工程师而来，虽然从事的业务林林总总，但坑的类型却几乎屈指可数。如果你想从技术转管理，这些坑你可要多加注意。
 
 ## <a name='interview-hiring'>Interview/Hiring</a>
 
