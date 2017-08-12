@@ -104,6 +104,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [When Does a Project Need React?](https://css-tricks.com/project-need-react/)
 - :star2: [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/): Thoughts on what Redux requires, how Redux is intended to be used, and what is possible with Redux
 - :star2: [Idiomatic Redux: The Tao of Redux, Part 2 - Practice and Philosophy](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/): More thoughts on what Redux requires, how Redux is intended to be used, and what is possible with Redux
+- :full_moon: [All About React Router 4](https://css-tricks.com/react-router-4/): Cover the most common API concepts, but the real focus is on patterns and strategies that I've found to be successful for react-router@4
 
 ## <a name='frameworks-libraries-widgets'>Frameworks/Libraries/Widgets</a>
 
