@@ -42,18 +42,17 @@ If you want to view the well organized version, please head to [this link](http:
 * [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish **#article**
 * [The Tech Behind the New Twitter.com](https://blog.twitter.com/2010/tech-behind-new-twittercom): The Twitter.com redesign on 2010, publicly switched to client-side templating, turning the server into something more like a simple API
 * [Facebook just taught us all how to build websites](https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2)
-* [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. 
+* [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language.
 * [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/): BEM – meaning block, element, modifier – is a front-end naming methodology thought up by the guys at Yandex. It is a smart way of naming your CSS classes to give them more transparency and meaning to other developers. They are far more strict and informative, which makes the BEM naming convention ideal for teams of developers on larger projects that might last a while.
 * [Chrome DevTools: State Of The Union 2015](http://addyosmani.com/blog/chrome-devtools-state-of-the-union-2015/): [@addyosmani](http://twitter.com/addyosmani) walks through the latest updates on your favourite debugging companion; exploring new features like paint profiling, animation inspection and updates to the JavaScript editing workflow with V8.
 * [JavaScript Scene](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2): Learn JavaScript Essentials(for all skill levels) by Eric Elliott (author of [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html))
-* [miguelmota/javascript-idiosyncrasies](https://github.com/miguelmota/javascript-idiosyncrasies): A bunch of Javascript idiosyncrasies, kinda. 
+* [miguelmota/javascript-idiosyncrasies](https://github.com/miguelmota/javascript-idiosyncrasies): A bunch of Javascript idiosyncrasies, kinda.
 * [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/): by @rmurphey on APR 12TH, 2012
 * [A Baseline for Front-End [JS] Developers: 2015](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/):  by @rmurphey on MAR 23RD, 2015
 * [Making NetFlix.com Faster](http://techblog.netflix.com/2015/08/making-netflixcom-faster.html): Performance isn't an option if you're aiming for an amazing user experience. A compelling post on how Netflix improved on how fast Netflix.com renders by @kristoferbaxter.
 * :star2: [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.3n1is9sod)
 * :star2: [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.bhg0iefbm)
 * :star2: [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.l0xis2l65)
-* :star2: [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 * :star2: [wearehive/project-guidelines](https://github.com/wearehive/project-guidelines): A set of best practices for JavaScript projects
 * :new_moon: [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 * :new_moon: [grab/front-end-guide](https://github.com/grab/front-end-guide): 📚 Study guide and introduction to the modern front end stack.
@@ -88,7 +87,7 @@ If you want to view the well organized version, please head to [this link](http:
 # Dailies and Weeklies
 
 * [JavaScript Weekly](http://javascriptweekly.com/): A free, once–weekly e-mail round-up of JavaScript news and articles.
-* ES.next News](http://esnextnews.com/): ES.next News: 5 ECMAScript.next links every week, in your inbox. 
+* ES.next News](http://esnextnews.com/): ES.next News: 5 ECMAScript.next links every week, in your inbox.
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/): A weekly reading digest for frontend developers. One email. Handpicked articles. Every Tuesday. No spam.
 * [HTML5 Weekly](http://html5weekly.com): A once–weekly HTML5 and Web Platform technology roundup.
 CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
@@ -97,7 +96,7 @@ CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Responsive Design Weekly](http://responsivedesignweekly.com/): A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 * [Web Design Weekly](http://web-design-weekly.com/): A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.
 * [Node Weekly](http://nodeweekly.com/): A free, once–weekly e-mail round-up of Node.js news and articles.
-* [Web Tools Weekly](http://webtoolsweekly.com/): 
+* [Web Tools Weekly](http://webtoolsweekly.com/):
 * [EchoJS](http://www.echojs.com/)
 * [DailyJS](http://dailyjs.com/): A JavaScript Blog.
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
@@ -114,7 +113,7 @@ CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Cloud Development Weekly](http://clouddevweekly.co/): News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools
 * [This Week on Domains](http://www.thisweekindomains.com/) : A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more.
 * [NoSQL Weekly](http://www.nosqlweekly.com/): A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to NoSQL.
-* [Founder Weekly](http://www.founderweekly.com/): A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, 
+* [Founder Weekly](http://www.founderweekly.com/): A free weekly newsletter for entrepreneurs featuring best curated content, must read articles,
 how to guides, tips and tricks, resources, events and more.
 * [Python Weekly](http://www.pythonweekly.com/): A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
 * [Ruby Weekly](http://rubyweekly.com/): A free, once–weekly e-mail round-up of Ruby news and articles.
@@ -146,7 +145,7 @@ about HTML5 Game Development.
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines): Some HTML, CSS and JS best practices.
 * [free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 * [timjacobi/angular2-education](https://github.com/timjacobi/angular2-education): A curated list of helpful material to get started with education on Angular 2
-* [CSS Tool Collection](https://medium.com/@vilcins/css-tools-that-i-use-67cb8bfa2e2d): CSS tools are important for front-end developers because they help them by simplifying the jobs they have to do, simplify development related tasks and allow to write clean css codes. 
+* [CSS Tool Collection](https://medium.com/@vilcins/css-tools-that-i-use-67cb8bfa2e2d): CSS tools are important for front-end developers because they help them by simplifying the jobs they have to do, simplify development related tasks and allow to write clean css codes.
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 
 
