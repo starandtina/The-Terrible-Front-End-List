@@ -17,7 +17,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [Career](#career)
   1. [Management](#management)
   1. [Interview/Hiring](#interview-hiring)
-  1. [Web Performance](#wpo)
+  1. [Web Performance Optimization](#wpo)
   1. [Web Accessibility](#a11y)
   1. [CSS](#css)
   1. [React/Redux](#react-redux)
@@ -72,7 +72,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [The Hiring Post](http://bit.ly/1Mg0xFa)
 - :new_moon: [How to pass a programming interview](http://bit.ly/1pvRLwS)
 
-## <a name='wpo'>Web Performance</a>
+## <a name='wpo'>Web Performance Optimization</a>
 
 - :star2: [Web Fundamentals - Performance <sub>Best practices from Google</sub>](http://bit.ly/1OHXDfV)
 - :star2: [Best Practices for Speeding Up Your Web Site <sub>The Exceptional Performance team has identified a number of best practices for making web pages fast. </sub>](http://yhoo.it/1jY4LHz)
@@ -83,6 +83,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :full_moon: [Loading Scripts Without Blocking](http://bit.ly/1SRttsH)
 - :star2: [Response Times: The 3 Important Limits <sub>There are 3 main time limits (which are determined by human perceptual abilities) to keep in mind when optimizing web and application performance.</sub>](http://bit.ly/1ToW0VD)
 - :star2: [ES proposal: import() – dynamically importing ES modules](http://2ality.com/2017/01/import-operator.html): The ECMAScript proposal `import()` by Domenic Denicola is currently at stage 3. It enables dynamic loading of ECMAScript modules and is explained in this blog post.
+- :star2: [The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3)
 
 # <a name='a11y'>Web Accessibility</a>
 
