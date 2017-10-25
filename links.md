@@ -14,7 +14,7 @@ If you want to view the well organized version, please head to [this link](http:
 - :waxing_crescent_moon: :first_quarter_moon: :moon: Reading progress
 - :full_moon: Finished reading
 - :full_moon_with_face: **Wouldn't recommend**
-- :star2: **Loved it*
+- :star2: **Loved it**
 
 # Required Reading
 
