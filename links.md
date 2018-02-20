@@ -62,6 +62,7 @@ If you want to view the well organized version, please head to [this link](http:
 # Required Viewing
 
 * [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): This talk looks at the browser's event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We'll look at the difference between tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land.
+* [Philip Roberts: Help, I’m stuck in an event-loop](https://vimeo.com/96425312): With some handy visualisations, and fun hacks, let's get an intuitive understanding of what happens when JavaScript runs. Beginner or veteran, I'm sure you'll learn something!
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) - [Jafar Husain](https://twitter.com/jhusain)
 * [David Nolen: Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) - [David Nolen](https://twitter.com/swannodette)
 * [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw): Paul Irish on one of the most important but overlooked topics in the development world today - page load times.
