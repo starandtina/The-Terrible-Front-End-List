@@ -199,6 +199,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='startups-businesses'>Startups/Businesses</a>
 
+* :full_moon: [零售的哲学](https://read.douban.com/ebook/9036628/): 7-Eleven 便利店创始人自述
 * :full_moon: [Rework](http://amzn.to/1SD1coP)
 * :full_moon: [Remote <sub>Office Not Required</sub>](http://amzn.to/1ROogiZ)
 * :new_moon: [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
