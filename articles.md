@@ -19,6 +19,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
   1. [Interview/Hiring](#interview-hiring)
   1. [Web Performance Optimization](#wpo)
   1. [Web Accessibility](#a11y)
+  1. [JavaScript](#js)
   1. [CSS](#css)
   1. [React/Redux](#react-redux)
   1. [Frameworks/Libraries/Widgets](#frameworks-libraries-widgets)
@@ -88,6 +89,10 @@ If you have book recommendations for me, please [create a Pull Request](https://
 # <a name='a11y'>Web Accessibility</a>
 
 - :full_moon: [Links, Buttons, Submits, and Divs, Oh Hell](http://adrianroselli.com/2016/01/links-buttons-submits-and-divs-oh-hell.html): The struggle to help developers how to understand the right HTML to use for visual buttons has been written about over and over. Yet libraries, frameworks, templates, and by extension, sites & applications still continue to get it wrong.
+
+# <a name='js'>JavaScript</a>
+
+- [ES6 Promises: Patterns and Anti-Patterns](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
 
 # <a name='css'>CSS</a>
 

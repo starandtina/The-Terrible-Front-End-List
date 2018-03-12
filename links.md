@@ -86,10 +86,19 @@ If you want to view the well organized version, please head to [this link](http:
 * [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) by André Staltz. **#course** **#video**
 
 
+# Tutorials
+
+- [GitHub and Git Essentials](https://www.robinwieruch.de/git-essential-commands/)
+- [eashish93/git-cheatsheet.md](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+- [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [Front-End Web Development, Chewed Up](https://alligator.io): Angular 2+, Vue.js, React, JavaScript, Ionic, CSS…
+
 # Dailies and Weeklies
 
-* [JavaScript Weekly](http://javascriptweekly.com/): A free, once–weekly e-mail round-up of JavaScript news and articles.
-* ES.next News](http://esnextnews.com/): ES.next News: 5 ECMAScript.next links every week, in your inbox.
+* :star2: [JavaScript Weekly](http://javascriptweekly.com/): A free, once–weekly e-mail round-up of JavaScript news and articles.
+* :star2: [React Status](https://react.statuscode.com/): A weekly roundup of the latest React and React Native links and tutorials.
+* [Google developer platforms updates](https://developers.google.com/web/updates/): The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more.
+* [ES.next News](http://esnextnews.com/): ES.next News: 5 ECMAScript.next links every week, in your inbox.
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/): A weekly reading digest for frontend developers. One email. Handpicked articles. Every Tuesday. No spam.
 * [HTML5 Weekly](http://html5weekly.com): A once–weekly HTML5 and Web Platform technology roundup.
 CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
@@ -100,7 +109,7 @@ CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Node Weekly](http://nodeweekly.com/): A free, once–weekly e-mail round-up of Node.js news and articles.
 * [Web Tools Weekly](http://webtoolsweekly.com/):
 * [EchoJS](http://www.echojs.com/)
-* [DailyJS](http://dailyjs.com/): A JavaScript Blog.
+* [DailyJS](http://dailyjs.com/): A JavaScript Blog. Or visit it on [DailyJS – Medium](https://medium.com/dailyjs).
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [A Drip of JavaScript](http://adripofjavascript.com/): One quick JavaScript tip, delivered to your inbox every other week.
 * [Modern Web Observer](http://modernweb.com/modern-web-observer/)
@@ -132,6 +141,8 @@ how to guides, tips and tricks, resources, events and more.
 * [HTML5 Game Development Newsletter](http://gamedevjsweekly.com/): Weekly newsletter
 about HTML5 Game Development.
 * [Offline First Reader](http://offlinefirst.org/): We live in a disconnected & battery powered world, but our technology and best practices are a leftover from the always connected & steadily powered past.
+* :star2: [Kent C. Dodds Mail](https://tinyletter.com/kentcdodds/archive): The newsletter!! 💌 from Kent C. Dodds.
+- [Front-End Web Development, Chewed Up](https://alligator.io): Angular 2+, Vue.js, React, JavaScript, Ionic, CSS...
 
 
 # Awesomeness
