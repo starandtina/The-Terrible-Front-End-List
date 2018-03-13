@@ -87,6 +87,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='react-redux'>React/Redux</a>
 
+* :star2: [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 * :star2: [react-bits](https://github.com/vasanthk/react-bits): ✨ React patterns, techniques, tips and tricks ✨ https://vasanthk.gitbooks.io/react-bits
 * :full_moon: [react-in-patterns](https://github.com/krasimir/react-in-patterns): 📚 List of design patterns/techniques used while developing with React
 * :full_moon: [reactpatterns.com](https://github.com/chantastic/reactpatterns.com): Patterns for React Developers http://reactpatterns.com
