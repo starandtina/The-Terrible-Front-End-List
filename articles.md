@@ -100,6 +100,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## <a name='react-redux'>React/Redux</a>
 
+* :full_moon: [React.js Frequently Faced Problems](https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g): We receive some interesting problems every now and then but most of the asked questions are for common problems. I am creating this resource to write detailed instructions for the common problems beginner React.js learners usually face so that I can refer them to here instead of typing it over and over
 * :star2: [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.l0xis2l65)
 * :star2: [Make Your React Components Pretty 💅](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e)
 * :star2: [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.3n1is9sod)
