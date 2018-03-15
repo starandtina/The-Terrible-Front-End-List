@@ -145,6 +145,7 @@ If you want to view the well organized version, please head to [this link](http:
 
 # Awesomeness
 
+* [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies): 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 * [A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of amazingly awesome awesomeness. Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 * [A curated list of awesome lists](https://github.com/sindresorhus/awesome): A curated list of awesome lists by @sindresorhus.
 * [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff): A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
