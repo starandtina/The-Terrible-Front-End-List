@@ -18,6 +18,7 @@ If you want to view the well organized version, please head to [this link](http:
 
 # Required Reading
 
+* :star2: [The Twelve-Factor App](https://12factor.net/): In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.
 * [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - One clear path to JavaScript mastery
 * [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245) 99 out of 100 JS developers lack the skills they need to fill hundreds of thousands of jobs. We can change that.
 * [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
