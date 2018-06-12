@@ -61,6 +61,7 @@ If you want to view the well organized version, please head to [this link](http:
 
 # Required Viewing
 
+* [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
 * [How to Build a Compiler by James Kyle](https://www.youtube.com/watch?v=Tar4WgAfMr4): Compilers are all around you: Babel, Handlebars/HTMLBars, Glimmer, Uglify, and more. In this talk we'll walk through every part of a compiler from the parser to the generator. Learn about visitors and traversal, paths, scopes, bindings, and everything else. By the end compilers shouldn't seem like magic, and maybe you'll even want to contribute back to them.
 * [dotJS 2016 - Evan You - Reactivity in Frontend JavaScript Frameworks](https://www.youtube.com/watch?v=r4pNEdIt_l4): With today’s modern JavaScript frameworks, we are used to the fact that when the application state changes, the DOM is updated automatically. But how do the frameworks detect state changes, and how do they efficiently propagate the changes through the system? Evan answers these questions based on his experience building Vue.js.
 * [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): This talk looks at the browser's event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We'll look at the difference between tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land.
