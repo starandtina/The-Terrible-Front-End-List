@@ -97,6 +97,7 @@ If you want to view the well organized version, please head to [this link](http:
 
 # Dailies and Weeklies
 
+* [Alligator](https://alligator.io): Front-End Web Development, Chewed Up
 * :star2: [JavaScript Weekly](http://javascriptweekly.com/): A free, once–weekly e-mail round-up of JavaScript news and articles.
 * :star2: [React Status](https://react.statuscode.com/): A weekly roundup of the latest React and React Native links and tutorials.
 * [Google developer platforms updates](https://developers.google.com/web/updates/): The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more.
