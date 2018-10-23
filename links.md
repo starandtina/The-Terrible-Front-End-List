@@ -100,6 +100,7 @@ If you want to view the well organized version, please head to [this link](http:
 * [Alligator](https://alligator.io): Front-End Web Development, Chewed Up
 * :star2: [JavaScript Weekly](http://javascriptweekly.com/): A free, once–weekly e-mail round-up of JavaScript news and articles.
 * :star2: [React Status](https://react.statuscode.com/): A weekly roundup of the latest React and React Native links and tutorials.
+* [Vue Weekly](www.vueweekly.com)
 * [Google developer platforms updates](https://developers.google.com/web/updates/): The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more.
 * [ES.next News](http://esnextnews.com/): ES.next News: 5 ECMAScript.next links every week, in your inbox.
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/): A weekly reading digest for frontend developers. One email. Handpicked articles. Every Tuesday. No spam.
